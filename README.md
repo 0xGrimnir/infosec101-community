@@ -122,6 +122,6 @@ Notable individuals, conventions, and organizations from the Information Securit
 ### Notable Organizations and Corporations
 
 | Twitter Name | Twitter Handle | Twitter Biography |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | Hackers For Charity | [@ihackcharities](https://twitter.com/ihackcharities) | Connecting Hackers and Charities |
 | The Innocent Lives | [@InnocentOrg](https://twitter.com/InnocentOrg) | We unmask anonymous online child predators to assist in bringing them to justice. |
