@@ -36,6 +36,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | :---: | :---: | :---: |
 | Dave Kennedy (ReL1K) | [@HackingDave](https://twitter.com/HackingDave) | Father/Hubby, Hacker, Author, Media Person, Founder @TrustedSec, @Binary_Defense and @DerbyCon, and vet @USMC. Life Motto: "In Absentia Lucis Tenebrae Vincunt". |
 | InfoSec Taylor Swift | [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) | I make stupid jokes, talk systems security, https://DecentSecurity.com  + http://GotPhish.com , write Scifi, sysadmin, & use Oxford commas.Kinda prefer they/them |
+| C:\Users\Tulpa | [@tulpa_security](https://twitter.com/tulpa_security) | Digital curiosity in an analog world // Hold onto your roots // Blood type IPA+ // OSCE, OSCP, OSWP, BAppSocSci etc. |
 | Amanda Berlin | [@InfoSystir](https://twitter.com/InfoSystir) | Adult supervision required. Co-host of @brakesec Author - http://oreil.ly/2aS3Jdm  Quod me non necat me fortiorem facit #infosec #security #defsec #hacking |
 | Heather Mahalik | [@HeatherMahalik](https://twitter.com/HeatherMahalik) | Digital Forensics Professional, SANS Senior Instructor and author #FOR585, wife, mama, author, serial vacationer, horse lover and simply over-scheduled! |
 | Mudge | [@dotMudge](https://twitter.com/dotMudge) | Make a dent in the universe. Find something that needs improvement: go there and fix things. If not you, then who? :) |
