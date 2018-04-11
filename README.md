@@ -71,7 +71,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | Andreas Schuster | [@forensikblog](https://twitter.com/forensikblog) | Computer forensic geek |
 | Willi Ballenthin | [@williballenthin](https://twitter.com/williballenthin) | /usr/bin/nethack |
 
-#### Conventions
+### Conventions
 
 | Twitter Name | Twitter Handle | Twitter Biography |
 | --- | --- | --- |
