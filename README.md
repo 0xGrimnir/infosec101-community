@@ -125,3 +125,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | :---: | :---: | :---: |
 | Hackers For Charity | [@ihackcharities](https://twitter.com/ihackcharities) | Connecting Hackers and Charities |
 | The Innocent Lives | [@InnocentOrg](https://twitter.com/InnocentOrg) | We unmask anonymous online child predators to assist in bringing them to justice. |
+| ISACA International | [@ISACANews](https://twitter.com/ISACANews) | A global association of 140,000 professionals, ISACA helps enterprises maximize the value of their information and technology. |
+| SANS Institute | [@SANSInstitute](https://twitter.com/SANSInstitute) | SANS is the most trusted and by far the largest source for information & cyber security training, certification and research in the world. |
+| (ISC)2 | [@ISC2](https://twitter.com/ISC2) | (ISC)² is an international nonprofit membership association focused on inspiring a safe and secure cyber world. |
+| ISSA International | [@ISSAINTL](https://twitter.com/ISSAINTL) | Developing & Connecting Cybersecurity Leaders Globally |
