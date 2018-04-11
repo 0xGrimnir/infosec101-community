@@ -35,6 +35,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | Twitter Name | Twitter Handle | Twitter Biography |
 | :---: | :---: | :---: |
 | Dave Kennedy (ReL1K) | [@HackingDave](https://twitter.com/HackingDave) | Father/Hubby, Hacker, Author, Media Person, Founder @TrustedSec, @Binary_Defense and @DerbyCon, and vet @USMC. Life Motto: "In Absentia Lucis Tenebrae Vincunt". |
+| Mark Boltz-Robinson | [@SageFedora](https://twitter.com/SageFedora) | IT security. Apple evangelist, queer geek, avid reader, dog lover, cat owner, skier. #locksport #travel #firearms #politics #infosec #UNIX #atheist #beer |
 | InfoSec Taylor Swift | [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) | I make stupid jokes, talk systems security, https://DecentSecurity.com  + http://GotPhish.com , write Scifi, sysadmin, & use Oxford commas.Kinda prefer they/them |
 | C:\Users\Tulpa | [@tulpa_security](https://twitter.com/tulpa_security) | Digital curiosity in an analog world // Hold onto your roots // Blood type IPA+ // OSCE, OSCP, OSWP, BAppSocSci etc. |
 | Amanda Berlin | [@InfoSystir](https://twitter.com/InfoSystir) | Adult supervision required. Co-host of @brakesec Author - http://oreil.ly/2aS3Jdm  Quod me non necat me fortiorem facit #infosec #security #defsec #hacking |
