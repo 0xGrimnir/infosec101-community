@@ -33,7 +33,39 @@ Notable individuals, conventions, and organizations from the Information Securit
 ### Information Security
 
 | Twitter Name | Twitter Handle | Twitter Biography |
-| --- | --- | --- |
+| :---: | :---: | :---: |
+| Dave Kennedy (ReL1K) | [@HackingDave](https://twitter.com/HackingDave) | Father/Hubby, Hacker, Author, Media Person, Founder @TrustedSec, @Binary_Defense and @DerbyCon, and vet @USMC. Life Motto: "In Absentia Lucis Tenebrae Vincunt". |
+| InfoSec Taylor Swift | [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) | I make stupid jokes, talk systems security, https://DecentSecurity.com  + http://GotPhish.com , write Scifi, sysadmin, & use Oxford commas.Kinda prefer they/them |
+| Amanda Berlin | [@InfoSystir](https://twitter.com/InfoSystir) | Adult supervision required. Co-host of @brakesec Author - http://oreil.ly/2aS3Jdm  Quod me non necat me fortiorem facit #infosec #security #defsec #hacking |
+| Heather Mahalik | [@HeatherMahalik](https://twitter.com/HeatherMahalik) | Digital Forensics Professional, SANS Senior Instructor and author #FOR585, wife, mama, author, serial vacationer, horse lover and simply over-scheduled! |
+| Mudge | [@dotMudge](https://twitter.com/dotMudge) | Make a dent in the universe. Find something that needs improvement: go there and fix things. If not you, then who? :) |
+| Eugene Kaspersky | [@e_kaspersky](https://twitter.com/e_kaspersky) | CEO of #Kaspersky Lab. 28 years in #cybersecurity. Views are my own |
+| bat | [@mzbat](https://twitter.com/mzbat) | NaaS (No as a Service) stabby infosec, artist, tank girl, spooky space bat. PhD in Horribleness.🖤 @18F #nasa @rallysecurity 🦇 http://keybase.io/mzbat  |
+| John Lambert | [@JohnLaTwC](https://twitter.com/JohnLaTwC) | General Manager, Microsoft Threat Intelligence Center, johnla(AT)http://microsoft.com , http://www.linkedin.com/in/johnjlambert  |
+| Dan Rosenberg | [@djrbliss](https://twitter.com/djrbliss) | I break kernels. |
+| Matthew Green | [@matthew_d_green](https://twitter.com/matthew_d_green) | I teach cryptography at Johns Hopkins. |
+| Ryan Dewhurst | [@ethicalhack3r](https://twitter.com/ethicalhack3r) | Founder of Dewhurst Security. Founder/Developer of @_WPScan_ and DVWA. |
+| Marc Rogers | [@marcwrogers](https://twitter.com/marcwrogers) | Ramblings of a Mad English Hacker: Hacker behind BBC's The Real Hustle & USA's Mr Robot. Head of SecOps for DEF CON. Head of Infosec for CloudFlare. |
+| Parisa Tabriz | [@laparisa](https://twitter.com/laparisa) | Browser Boss @googlechrome; Security Princess @google; Project Zero den mom; former @usds; skilled at baking, eating, and hijacking cookies. |
+| Georgia Weidman | [@georgiaweidman](https://twitter.com/georgiaweidman) | Author: Penetration Testing: A Hands-On Introduction to Hacking http://www.nostarch.com/pentesting  (use code GEORGIA) Founder of @bulbsecurity and @shevirahsec, @UMUC prof |
+| Conrad | [@eric_conrad](https://twitter.com/eric_conrad) | SANS Fellow, lead author of The CISSP Study Guide, CTO of Backshore Communications, GIAC GSE #13. |
+| Ron Gula | [@RonGula](https://twitter.com/RonGula) | President Gula Tech Adventures. Co-Founded Tenable Network Security & Network Security Wizards. 15+ years experience as CEO & CTO in cyber security industry. |
+| briankrebs | [@briankrebs](https://twitter.com/briankrebs) | Independent investigative journalist. Writes about cybercrime. Author of 'Spam Nation', a NYT bestseller. Wrote for The Washington Post '95-'09 |
+| Gal Shpantzer | [@Shpantzer](https://twitter.com/Shpantzer) | Information security and risk management advisor. Virtual CISO with interdisciplinary skillset to solve complex business and technical problems. Not CISSP |
+| (((Jayson E. Street))) | [@jaysonstreet](https://twitter.com/jaysonstreet) | Hacker, Author. Speaker, VP of InfoSec at SphereNY, DCG Global Ambassador! Always learning & always hoping to teach others! :-) http://awkwardhugs.org  |
+| the grugq | [@thegrugq](https://twitter.com/thegrugq) | Security Researcher :: Cultural Attaché :: g@comae.io :: PGP http://keybase.io/grugq  :: Не верь, не бойся, не проси |
+| Shack | [@daveshackleford](https://twitter.com/daveshackleford) | Opinionated security geek. Owner@Voodoo Security, faculty@IANS. VMware vExpert. SANS dude. Musician. Sybex author. Slayer of Sacred Cows for Infosec. |
+| BillBrenner70 | [@BillBrenner70](https://twitter.com/BillBrenner70) | IANS research director, security scribe, dad, husband, author of THE OCD DIARIES #WebSecurity #SecurityThoughtLeadership #Metalhead |
+| Katie Moussouris | [@k8em0](https://twitter.com/k8em0) | Founder/CEO @lutasecurity . Bug bounty & vuln disclosure pioneer. ISO editor. Hacker. MIT Sloan visiting scholar. New America Fellow. Harvard Belfer affiliate. |
+| Dave Marcus | [@DaveMarcus](https://twitter.com/DaveMarcus) | Chief Architect, Advanced Research and Threat Intelligence McAfee Federal Advanced Programs Group |
+| 𝒮𝑒𝒸𝐵𝒶𝓇𝒷𝒾𝑒 | [@SecBarbie](https://twitter.com/SecBarbie) | Cyber/Information Security Professional, Partner at @UrbaneSec, Fine Dining Lover, DJ, Wine Butler, and forever student of life! #StarChaser |
+| Tavis Ormandy | [@taviso](https://twitter.com/taviso) | Vulnerability researcher at Google. This is a personal stream, opinions expressed are mine. |
+| Lance James | [@lancejssc](https://twitter.com/lancejssc) | Chief Scientist, @flashpointintel Consulting Detective, @unit221b Previously: Head of #Cyber Intelligence @Deloitte #cybersecurity #threatintel #infosec |
+| Jeremiah Grossman | [@jeremiahg](https://twitter.com/jeremiahg) | I travel world, meet new people, and fight them — or hack them. CEO (Bit Discovery | https://bitdiscovery.com/ ), Founded WhiteHat Security, and BJJ Black Belt. |
+| Paul Asadoorian | [@securityweekly](https://twitter.com/securityweekly) | Founder & CEO of Security Weekly & @stogiegeeks, @OffensiveCM CEO, hacker, cigar smoker, and podcaster. |
+| Jennifer Leggio | [@mediaphyter](https://twitter.com/mediaphyter) | Raconteur. Powerhouse. Security Twits herder emeritus. Writer for @ZDNet Zero Day. Chief Marketing Officer. Music is my lifeblood. Obsessed with baby goats. |
+| Jack Daniel | [@jack_daniel](https://twitter.com/jack_daniel) | Storyteller, Community Builder, Security BSides co-founder, Friend, Lover, Curmudgeon, Historian. |
+| Bill Gardner | [@oncee](https://twitter.com/oncee) | Assistant professor and ΛΧΑ advisor at Marshall University. |
 
 ### Digital Forensics, Incident Response, and Malware Analysis
 
