@@ -38,6 +38,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | Mark Boltz-Robinson | [@SageFedora](https://twitter.com/SageFedora) | IT security. Apple evangelist, queer geek, avid reader, dog lover, cat owner, skier. #locksport #travel #firearms #politics #infosec #UNIX #atheist #beer |
 | InfoSec Taylor Swift | [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) | I make stupid jokes, talk systems security, https://DecentSecurity.com  + http://GotPhish.com , write Scifi, sysadmin, & use Oxford commas.Kinda prefer they/them |
 | C:\Users\Tulpa | [@tulpa_security](https://twitter.com/tulpa_security) | Digital curiosity in an analog world // Hold onto your roots // Blood type IPA+ // OSCE, OSCP, OSWP, BAppSocSci etc. |
+| Nikita Kronenberg | [@Niki7a](https://twitter.com/Niki7a) | DEF CON, Director of Content & Coordination. Wife & Mom. Member of: Security Tribe, LoU. ☠️🦄🌈🤓 Into: hacks💡snacks 🌮 shellacs 💅 |
 | Amanda Berlin | [@InfoSystir](https://twitter.com/InfoSystir) | Adult supervision required. Co-host of @brakesec Author - http://oreil.ly/2aS3Jdm  Quod me non necat me fortiorem facit #infosec #security #defsec #hacking |
 | Heather Mahalik | [@HeatherMahalik](https://twitter.com/HeatherMahalik) | Digital Forensics Professional, SANS Senior Instructor and author #FOR585, wife, mama, author, serial vacationer, horse lover and simply over-scheduled! |
 | Mudge | [@dotMudge](https://twitter.com/dotMudge) | Make a dent in the universe. Find something that needs improvement: go there and fix things. If not you, then who? :) |
@@ -109,6 +110,16 @@ Notable individuals, conventions, and organizations from the Information Securit
 
 | Twitter Name | Twitter Handle | Twitter Biography |
 | --- | --- | --- |
+| DEF CON | [@defcon](https://twitter.com/defcon) | Hacking Conference |
+| DerbyCon | [@DerbyCon](https://twitter.com/DerbyCon) | Welcome to DerbyCon 8.0 - 'Evolution'. A southern information security conference located: Marriott Louisville. Training: Oct 3-4, 2018 Con: Oct 5-7, 2018 |
+| shmoocon | [@shmoocon](https://twitter.com/shmoocon) | ShmooCon 2018 is Jan 19-21. This account is used primarily to push information. Got questions? Email us at info@shmoocon.org |
+|  | [@](https://twitter.com/) |  |
+|  | [@](https://twitter.com/) |  |
+|  | [@](https://twitter.com/) |  |
+|  | [@](https://twitter.com/) |  |
+|  | [@](https://twitter.com/) |  |
+|  | [@](https://twitter.com/) |  |
+|  | [@](https://twitter.com/) |  |
 
 ### Notable Organizations and Corporations
 
