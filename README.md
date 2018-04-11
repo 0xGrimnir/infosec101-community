@@ -109,19 +109,19 @@ Notable individuals, conventions, and organizations from the Information Securit
 ### Conventions
 
 | Twitter Name | Twitter Handle | Twitter Biography |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | DEF CON | [@defcon](https://twitter.com/defcon) | Hacking Conference |
 | DerbyCon | [@DerbyCon](https://twitter.com/DerbyCon) | Welcome to DerbyCon 8.0 - 'Evolution'. A southern information security conference located: Marriott Louisville. Training: Oct 3-4, 2018 Con: Oct 5-7, 2018 |
 | shmoocon | [@shmoocon](https://twitter.com/shmoocon) | ShmooCon 2018 is Jan 19-21. This account is used primarily to push information. Got questions? Email us at info@shmoocon.org |
-|  | [@](https://twitter.com/) |  |
-|  | [@](https://twitter.com/) |  |
-|  | [@](https://twitter.com/) |  |
-|  | [@](https://twitter.com/) |  |
-|  | [@](https://twitter.com/) |  |
-|  | [@](https://twitter.com/) |  |
-|  | [@](https://twitter.com/) |  |
+| toorcon | [@toorcon](https://twitter.com/toorcon) | ratio, non res |
+| Security BSides | [@SecurityBSides](https://twitter.com/SecurityBSides) | Expanding the spectrum of conversation one event at a time. |
+| RSA Conference | [@RSAConference](https://twitter.com/RSAConference) | #RSAC: Where the world talks #security |
+| Black Hat | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | The World's Premier Technical Security Conferences |
+| DevSecCon | [@devseccon](https://twitter.com/devseccon) | A conference for DevSecOps, focusing on continuously secure IT solutions. |
 
 ### Notable Organizations and Corporations
 
 | Twitter Name | Twitter Handle | Twitter Biography |
 | --- | --- | --- |
+| Hackers For Charity | [@ihackcharities](https://twitter.com/ihackcharities) | Connecting Hackers and Charities |
+| The Innocent Lives | [@InnocentOrg](https://twitter.com/InnocentOrg) | We unmask anonymous online child predators to assist in bringing them to justice. |
