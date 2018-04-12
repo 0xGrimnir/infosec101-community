@@ -145,3 +145,14 @@ Notable individuals, conventions, and organizations from the Information Securit
 | [The Scripting Guys](https://www.facebook.com/groups/5901799452/) |  |
 | [Hack In The Box (HITB)](https://www.facebook.com/groups/hackinthebox/) |  |
 | [Python Developers](https://www.facebook.com/groups/251560641854558/) |  |
+
+---
+
+## LinkedIn Communities
+
+| LinkedIn Community | Additional Information
+| :---: | :---: |
+| [ISACA (Official)](https://www.linkedin.com/groups/3839870/profile) | This official ISACA group welcomes ISACA members and nonmembers to share expertise and learn about the latest IT-related business issues. |
+| [Information Systems Security Association (ISSA) Discussion Forum](https://www.linkedin.com/groups/37008/profile) | The ISSA is a not-for-profit, international organization of information security professionals and practitioners. Note: Membership to this LinkedIn group does not signify current membership status with the ISSA. |
+| [Governance, Risk and Compliance Management (GRC)]() | This community is focused around the core domains of governance, risk, and compliance. Members of this group are highly respected and well-placed professionals across industry sectors from around the world. |
+| [CYBER SECURITY Forum Initiative - CSFI](https://www.linkedin.com/groups/1836487) | MISSION: To provide guidance and solutions to the private sector in the protection of critical civilian networks against cyber warfare related activities, through collaboration with universities, and the information security industry.  |
