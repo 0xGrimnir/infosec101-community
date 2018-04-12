@@ -161,6 +161,16 @@ Notable individuals, conventions, and organizations from the Information Securit
 
 ## Conventions
 
+| Convention | Website | Nearby Accommodations | Additional Information |
+| :---: | :---: | :---: | :---: |
+| DEF CON | [https://www.defcon.org](https://www.defcon.org) | [Hotels in Area](https://www.google.com/search?q=hotels+in+vegas&rlz=1C1SQJL_enUS764US764&oq=Hotels+in+Vegas) |  |
+| DerbyCon | [https://www.derbycon.com](https://www.derbycon.com) | [Hotels in Area](https://www.google.com/search?q=Hotels+in+Louisville%2C+Kentucky&rlz=1C1SQJL_enUS764US764&oq=Hotels+in+Louisville%2C+Kentucky) |  |
+| ShmooCon | [http://shmoocon.org](http://shmoocon.org) | [Hotels in Area](https://www.google.com/search?q=Hotels+in+Washington+DC&rlz=1C1SQJL_enUS764US764&oq=Hotels+in+Washington+DC) |  |
+| ToorCon | [https://sandiego.toorcon.net/](https://sandiego.toorcon.net/) | [Hotels in Area](https://www.google.com/search?rlz=1C1SQJL_enUS764US764&ei=QrfOWpKOJoTTjwT9lpfoAg) |  |
+| RSA | [https://www.rsaconference.com/events/us18](https://www.rsaconference.com/events/us18) | [Hotels in Area](https://www.google.com/search?q=Hotels+in+San+Francisco%2C+CA&rlz=1C1SQJL_enUS764US764&oq=Hotels+in+San+Francisco%2C+CA) |  |
+| Black Hat | [http://www.blackhat.com](http://www.blackhat.com/) | [Hotels in Area](https://www.google.com/search?q=hotels+in+vegas&rlz=1C1SQJL_enUS764US764&oq=Hotels+in+Vegas) |  |
+| Security BSides | [http://www.securitybsides.com/w/page/12194156/FrontPage](http://www.securitybsides.com/w/page/12194156/FrontPage) |  |Multiple locations.|
+
 ---
 
 ## Nerd Entertainment
