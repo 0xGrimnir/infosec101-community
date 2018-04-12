@@ -129,3 +129,18 @@ Notable individuals, conventions, and organizations from the Information Securit
 | SANS Institute | [@SANSInstitute](https://twitter.com/SANSInstitute) | SANS is the most trusted and by far the largest source for information & cyber security training, certification and research in the world. |
 | (ISC)2 | [@ISC2](https://twitter.com/ISC2) | (ISC)² is an international nonprofit membership association focused on inspiring a safe and secure cyber world. |
 | ISSA International | [@ISSAINTL](https://twitter.com/ISSAINTL) | Developing & Connecting Cybersecurity Leaders Globally |
+
+---
+<!-- | []() |  | -->
+
+## Facebook Groups
+| Facebook Group | Additional Information |
+| :---: | :---: |
+| [The OSCP Study Group](https://www.facebook.com/groups/oscpsg/) | When requesting to join the group, make sure to fill out the admission questions in order for your request to be considered. |
+| [InfoSec and IT Jobs](https://www.facebook.com/groups/1907612799510073/) | When requesting to join the group, make sure to fill out the admission questions in order for your request to be considered. |
+| [Digital Forensics and Malware Analysis](https://www.facebook.com/groups/DFIRclub/) | ***Very selective admission***. When requesting to join the group, make sure to fill out the admission questions in order for your request to be considered. |
+| [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717/) | When requesting to join the group, make sure to fill out the admission questions in order for your request to be considered. |
+| [Defensive Security & Purple Team Group](https://www.facebook.com/groups/defensivesec/) |  |
+| [The Scripting Guys](https://www.facebook.com/groups/5901799452/) |  |
+| [Hack In The Box (HITB)](https://www.facebook.com/groups/hackinthebox/) |  |
+| [Python Developers](https://www.facebook.com/groups/251560641854558/) |  |
