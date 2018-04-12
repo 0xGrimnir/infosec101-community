@@ -13,15 +13,15 @@
 ---
 
 ## Table of Contents
-- [Twitter]()
-  - [Information Security]()
-  - [Digital Forensics, Incident Response, and Malware Analysis]()
-  - [Conventions]()
-  - [Organizations and Corporations]()
-- [Facebook Groups]()
-- [LinkedIn Communities]()
-- [Conventions]()
-- [Nerd Entertainment]()
+- [Twitter](#twitter)
+  - [Information Security](#information-security)
+  - [Digital Forensics, Incident Response, and Malware Analysis](#digital-forensics-incident-response-and-malware-analysis)
+  - [Conventions](#conventions-on-twitter)
+  - [Organizations and Corporations](#notable-organizations-and-corporations)
+- [Facebook Groups](#facebook-groups)
+- [LinkedIn Communities](#linkedin-communities)
+- [Conventions](#conventions)
+- [Nerd Entertainment](nerd-entertainment)
 
 --- 
 <!-- |  | [@](https://twitter.com/) |  | -->
@@ -107,7 +107,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | Andreas Schuster | [@forensikblog](https://twitter.com/forensikblog) | Computer forensic geek |
 | Willi Ballenthin | [@williballenthin](https://twitter.com/williballenthin) | /usr/bin/nethack |
 
-### Conventions
+### Conventions on Twitter
 
 | Twitter Name | Twitter Handle | Twitter Biography |
 | :---: | :---: | :---: |
