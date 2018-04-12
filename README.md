@@ -171,4 +171,4 @@ I'll let you research this topic further, but I have to leave you with at least 
 
 ### [All the Things (Youtube)](https://www.youtube.com/watch?v=FoUWHfh733Y), by [Dual Core](https://twitter.com/dualcoremusic).
 
-Good luck out there in the community, hackers. Hack all the things!
+Good luck out there in the community, hackers. Hack all the things (as long as you have permission to do so. ;))!
