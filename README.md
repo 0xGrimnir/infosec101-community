@@ -170,3 +170,5 @@ I think it's fair to assume that most of us in the Information Technology, Compu
 I'll let you research this topic further, but I have to leave you with at least one link:
 
 ### [All the Things (Youtube)](https://www.youtube.com/watch?v=FoUWHfh733Y), by [Dual Core](https://twitter.com/dualcoremusic).
+
+Good luck out there in the community, hackers. Hack all the things!
