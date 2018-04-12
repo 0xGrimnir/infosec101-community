@@ -19,6 +19,7 @@
   - [Conventions]()
   - [Organizations and Corporations]()
 - [Facebook Groups]()
+- [LinkedIn Communities]()
 - [Conventions]()
 - [Nerd Entertainment]()
 
