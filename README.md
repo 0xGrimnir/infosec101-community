@@ -21,7 +21,7 @@
 - [Facebook Groups](#facebook-groups)
 - [LinkedIn Communities](#linkedin-communities)
 - [Conventions](#conventions)
-- [Nerd Entertainment](nerd-entertainment)
+- [Nerd Entertainment](#nerd-entertainment)
 
 --- 
 <!-- |  | [@](https://twitter.com/) |  | -->
