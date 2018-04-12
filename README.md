@@ -156,3 +156,17 @@ Notable individuals, conventions, and organizations from the Information Securit
 | [Information Systems Security Association (ISSA) Discussion Forum](https://www.linkedin.com/groups/37008/profile) | The ISSA is a not-for-profit, international organization of information security professionals and practitioners. Note: Membership to this LinkedIn group does not signify current membership status with the ISSA. |
 | [Governance, Risk and Compliance Management (GRC)]() | This community is focused around the core domains of governance, risk, and compliance. Members of this group are highly respected and well-placed professionals across industry sectors from around the world. |
 | [CYBER SECURITY Forum Initiative - CSFI](https://www.linkedin.com/groups/1836487) | MISSION: To provide guidance and solutions to the private sector in the protection of critical civilian networks against cyber warfare related activities, through collaboration with universities, and the information security industry.  |
+
+---
+
+## Conventions
+
+---
+
+## Nerd Entertainment
+
+I think it's fair to assume that most of us in the Information Technology, Computer Science, and Information Security industry are nerds. It's okay if you're not - but you're missing out! If you plan on hanging around the Information Security community very much at all, you'll quickly become acquainted with a term known as "Nerdcore." Even more quickly if you attend any of the conventions. No Information Security post would be complete without at least some sort of shout out to Nerdcore, and my Nerdcore friends YTCracker and Int80 (of Dual Core), and the many other talented Nerdcore artists out there.
+
+I'll let you research this topic further, but I have to leave you with at least one link:
+
+### [All the Things (Youtube)](https://www.youtube.com/watch?v=FoUWHfh733Y), by [Dual Core](https://twitter.com/dualcoremusic).
