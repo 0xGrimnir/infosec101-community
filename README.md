@@ -45,6 +45,7 @@ Notable individuals, conventions, and organizations from the Information Securit
 | Omar Santos | [@santosomar](https://twitter.com/santosomar) | Cyber security principal engineer at Cisco's PSIRT focused on vulnerability management, threat intelligence, research & writing books. Tweets are my own. |
 | Heather Mahalik | [@HeatherMahalik](https://twitter.com/HeatherMahalik) | Digital Forensics Professional, SANS Senior Instructor and author #FOR585, wife, mama, author, serial vacationer, horse lover and simply over-scheduled! |
 | Mudge | [@dotMudge](https://twitter.com/dotMudge) | Make a dent in the universe. Find something that needs improvement: go there and fix things. If not you, then who? :) |
+| Cypher | [@CryptoCypher](https://twitter.com/CryptoCypher) | Cypherpunk. Moderator @greysec_net. |
 | Eugene Kaspersky | [@e_kaspersky](https://twitter.com/e_kaspersky) | CEO of #Kaspersky Lab. 28 years in #cybersecurity. Views are my own |
 | bat | [@mzbat](https://twitter.com/mzbat) | NaaS (No as a Service) stabby infosec, artist, tank girl, spooky space bat. PhD in Horribleness.🖤 @18F #nasa @rallysecurity 🦇 http://keybase.io/mzbat  |
 | John Lambert | [@JohnLaTwC](https://twitter.com/JohnLaTwC) | General Manager, Microsoft Threat Intelligence Center, johnla(AT)http://microsoft.com , http://www.linkedin.com/in/johnjlambert  |
